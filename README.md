@@ -1,4 +1,4 @@
-# G-IT-Team_Project
+# G-IT-Team
 <h1> Backlog : </h1> </br>
 <table style="width:100%">
   <tr>
