@@ -8,6 +8,7 @@
     <th>Difficulté</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>En tant que développeur, je souhaite m’inscrire dans l’application en donnant mon email et mon mot de passe.</td> 
     <td>2</td>
     <td>8</td>
